@@ -1,0 +1,10 @@
+2024/03/20-17:22:11.555 10cc Reusing MANIFEST C:\Users\bachar\AppData\Local\Temp\flutter_tools.b28984cb\flutter_tools_chrome_device.679ad7a8\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/03/20-17:22:11.559 10cc Recovering log #13
+2024/03/20-17:22:11.561 10cc Reusing old log C:\Users\bachar\AppData\Local\Temp\flutter_tools.b28984cb\flutter_tools_chrome_device.679ad7a8\Default\Sync Data\LevelDB/000013.log 
+2024/03/20-17:22:11.562 10cc Delete type=0 #3
+2024/03/20-17:22:11.562 10cc Delete type=0 #4
+2024/03/20-17:22:11.562 10cc Delete type=0 #7
+2024/03/20-17:22:11.562 10cc Delete type=0 #10
+2024/03/20-17:24:14.068 10cc Level-0 table #17: started
+2024/03/20-17:24:14.072 10cc Level-0 table #17: 59183 bytes OK
+2024/03/20-17:24:14.076 10cc Delete type=0 #13

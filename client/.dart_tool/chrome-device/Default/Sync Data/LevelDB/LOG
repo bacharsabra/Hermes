@@ -1,0 +1,20 @@
+2024/03/20-21:27:29.985 7a94 Reusing MANIFEST C:\Users\bachar\AppData\Local\Temp\flutter_tools.5c08503e\flutter_tools_chrome_device.cce968c5\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/03/20-21:27:29.993 7a94 Recovering log #16
+2024/03/20-21:27:29.996 7a94 Reusing old log C:\Users\bachar\AppData\Local\Temp\flutter_tools.5c08503e\flutter_tools_chrome_device.cce968c5\Default\Sync Data\LevelDB/000016.log 
+2024/03/20-21:27:29.997 7a94 Delete type=0 #3
+2024/03/20-21:27:29.997 7a94 Delete type=0 #4
+2024/03/20-21:27:29.997 7a94 Delete type=0 #7
+2024/03/20-21:27:29.997 7a94 Delete type=0 #10
+2024/03/20-21:27:29.997 7a94 Delete type=0 #13
+2024/03/20-21:47:43.245 7a94 Level-0 table #20: started
+2024/03/20-21:47:43.249 7a94 Level-0 table #20: 56251 bytes OK
+2024/03/20-21:47:43.254 7a94 Delete type=0 #16
+2024/03/20-21:47:43.255 7a94 Compacting 4@0 + 1@1 files
+2024/03/20-21:47:43.266 7a94 Generated table #21@0: 46 keys, 6068 bytes
+2024/03/20-21:47:43.266 7a94 Compacted 4@0 + 1@1 files => 6068 bytes
+2024/03/20-21:47:43.268 7a94 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/20-21:47:43.269 7a94 Delete type=2 #8
+2024/03/20-21:47:43.269 7a94 Delete type=2 #11
+2024/03/20-21:47:43.269 7a94 Delete type=2 #14
+2024/03/20-21:47:43.269 7a94 Delete type=2 #17
+2024/03/20-21:47:43.269 7a94 Delete type=2 #20

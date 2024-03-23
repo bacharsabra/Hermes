@@ -1,0 +1,100 @@
+{
+   "checksum": "66225add5b49fe9b08fe10c7792f27de",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [  ],
+               "date_added": "13236276026912192",
+               "date_last_used": "0",
+               "date_modified": "13236276026912192",
+               "guid": "525dbb73-176d-416a-a9e5-dbbd031390f7",
+               "id": "18",
+               "name": "Favorites Bar",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13236214507693536",
+               "date_last_used": "0",
+               "guid": "98f20399-2157-4720-a40d-1ef52ac3d3f8",
+               "id": "19",
+               "name": "Bing",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/p/?LinkId=255142"
+            } ],
+            "date_added": "13236276026911452",
+            "date_last_used": "0",
+            "date_modified": "13236276026911452",
+            "guid": "95c9e613-cbe6-411d-8e25-7dd1df1bfb5f",
+            "id": "17",
+            "name": "Imported from Internet Explorer",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13351382542123816",
+               "date_last_used": "0",
+               "guid": "ad1cb87c-8801-4bba-93ff-6e864c1a5a02",
+               "id": "21",
+               "name": "Razer - For Gamers. By Gamers. - Razer United States",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.razerzone.com/"
+            }, {
+               "date_added": "13351382542123816",
+               "date_last_used": "0",
+               "guid": "5b853769-de93-4f69-aa72-f0ba5d3ab975",
+               "id": "22",
+               "name": "Razer Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.razersupport.com/"
+            } ],
+            "date_added": "13355091325491742",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "b4dd3762-2261-48c8-881e-9bfebce05703",
+            "id": "20",
+            "name": "Razer",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13355091321801924",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13355091321801925",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13355091321801926",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCIQwjF2OAQAAKg4QABgAIAAoBTAAOABAABIAKhhDRWZEVVlObDV5OE9RdGprMXd4YjdRPT1IA6AGDBKnAQgVEqIBChxJUjMxVEhtNW5ubWFBZldNcHF3T2g1QVo1dDQ9EiRhZDFjYjg3Yy04ODAxLTRiYmEtOTNmZi02ZTg2NGMxYTVhMDIYACAAKAAw3MHH3tYxON/Cx97WMUDfwsfe1jFKHDhNSHRLUytaRVNPSkdLMGRqYlk0MjRjcVo4cz1aHiIccE4rNkdRcGxuYzR3Uk94SkZPdy9NcWtXN1YwPWUAAAAAEqgBCBQSowEKHHU4WExWaUVPSEhSTjFEaUppbTJaS0lXSlRZMD0SJGI0ZGQzNzYyLTIyNjEtNDhjOC04ODFlLTliZmViY2UwNTcwMxgAIAAoADDbwcfe1jE4rsLH3tYxQK7Cx97WMUocejRNMGZPWW5KL01YSndDNjZHQk5PV1hwZWpnPVofIh28SXBaTXp1ZjBrQWZZc1JvdnJsMDdXUU8rZ0pnPWUAAAAAEqcBCBMSogEKHHJGd0xGZW1ZNjY2QTBDMVBsWTAzeEs5endnZz0SJGE3ZGQ0N2E5LWUzODItNDc3Mi05NjBkLWJjMjRkMTFlNzVjZRgAIAAoADDjm8j2qS44lJes3fIvQJSXrN3yL0ocU1JNa0hNQnVkUjVDSGlnU0lPV0FUZTdyd2E4PVoeIhxoZnZ3aFJCS09ENC9FdHplaWRoYUh6ckhqZE09ZQAAAAASqAEIFhKjAQocNlI3eEZRcDVWeEM1dEE3UmR1dnI3cmtDT0J3PRIkNWI4NTM3NjktZGU5My00ZjY5LWFhNzItZjBiYTVkM2FiOTc1GAAgACgAMN3Bx97WMTiIw8fe1jFAiMPH3tYxShxLcjhNWW1pUTF2NURmVnd1eGoxTEZnTVNzUWc9Wh8iHbhBTkFHYWdab0Q2UGVrS3drZjRPMGNtS1p2R2M9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZmZkNjk2YWEtMmZmMS01NTgwLWFlN2YtYTZiOGVmNzY3NmI5GAAgACgAMIrEiIazMDjQlazd8i9A0JWs3fIvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgREqIBChxDQzcyamxEcnlmc0RhaVgrNHJ0Sks3OHBwalE9EiQ5ZmEyMjMxYS1mZDkzLTRiZTAtOTg1MS00ZWU2ODg0ZDU5MmEYACAAKAAw4ZvI9qkuOLaWrN3yL0C2lqzd8i9KHGRXbTUyd0d3ZngxbE5QTFVWVGw5LzVmRElZMD1aHiIceWp3VTFuWmJ2dWVzQ0hqaWxJV1h2c0dpbTlnPWUAAAAAEqcBCBISogEKHDZuSWFEMkRGQUdxcEZRQkxORkx6eUpwSXJwVT0SJGMyZDc0NGM5LWE4MTctNGU4MS1iMjBlLWExMmMwNzgzMjUzNxgAIAAoADDim8j2qS441pas3fIvQNaWrN3yL0ocM09aSXJ1bEwrRTVZY0hpZFFXemdacWJyaU1BPVoeIhxXVmpHQVV5WStHM2djaklIN2toMzFlbjgxQTA9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkMjBkMjQ0YmItZjI5YS01N2IwLTg5MjEtZWVmOThlY2Q0NDNkGAAgACgAMIrEiIazMDjflazd8i9A35Ws3fIvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQzMDRlMjI1Ni1mOGRmLTU4NTAtYTgzZS05ZDBhMzkxYzE2MGIYACAAKAAwisSIhrMwOJ6WrN3yL0Celqzd8i9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}

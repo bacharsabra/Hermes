@@ -1,0 +1,24 @@
+name: hermesclient
+description: "A geolocalisation project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_osm_plugin: ^0.70.4
+  http: ^0.13.3
+  url_launcher: ^6.0.20
+  esys_flutter_share_plus: ^2.2.0
+  image_picker: ^0.8.4+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

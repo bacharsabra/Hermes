@@ -1,0 +1,1 @@
+ C:\\Users\\bachar\\Coding\\VisualStudioCode\\Flutter\\geoappclient\\.dart_tool\\flutter_build\\d451fb527dc53b094d3ef1120120b7b2\\native_assets.yaml: 

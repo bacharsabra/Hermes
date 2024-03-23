@@ -1,0 +1,1 @@
+ C:\\Users\\bachar\\Coding\\FYPs\\UCA\\Hermes\\client\\.dart_tool\\flutter_build\\d63f58af45ed63e602a3791dcbebb73f\\native_assets.yaml: 
